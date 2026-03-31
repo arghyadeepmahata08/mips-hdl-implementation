@@ -1,7 +1,4 @@
-/*
-Group Silveda (23EC8089 to 23EC8096)
-Module : Sign Extension (N-bit to 32-bit)
-*/
+
 
 `timescale 1 ns/1 ns
 
